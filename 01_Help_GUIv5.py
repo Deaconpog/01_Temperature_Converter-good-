@@ -1,3 +1,8 @@
+""" Creates basic interface with a help button which opens the help screen
+Fixed problem where help button remains disabled
+"""
+
+
 from tkinter import *
 from functools import partial  # To prevent unwanted windows
 
